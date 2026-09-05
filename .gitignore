@@ -1,0 +1,10 @@
+.DS_Store
+*.log
+.tmp/
+.cache/
+secrets/
+*.p12
+*.pem
+*.key
+.env
+.env.*
