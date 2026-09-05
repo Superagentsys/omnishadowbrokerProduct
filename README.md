@@ -8,13 +8,16 @@
 
 ## 下载
 
-安装包挂在 [Releases](https://github.com/Superagentsys/omnishadowbrokerProduct/releases)（也同步到本仓 `releases/v0.1.6/`，若体积允许）。
+安装包在本仓 [`releases/v0.1.6/`](https://github.com/Superagentsys/omnishadowbrokerProduct/tree/main/releases/v0.1.6)，也挂在 [Releases](https://github.com/Superagentsys/omnishadowbrokerProduct/releases)。
 
-| 平台 | 文件 |
-|---|---|
-| macOS Apple Silicon | `omnishadow-broker_0.1.6_macos-apple_*.dmg` |
-| macOS Intel | `omnishadow-broker_0.1.6_macos-intel_*.dmg` |
-| Windows x64 | `omnishadow-broker_0.1.6_windows-x64_*.exe` / `*.msi` |
+| 平台 | 大小 | 文件 |
+|---|---:|---|
+| macOS Apple Silicon | 33 MB | [omnishadow-broker_0.1.6_macos-apple_omnishadow-broker_0.2.0_aarch64.dmg](https://github.com/Superagentsys/omnishadowbrokerProduct/raw/main/releases/v0.1.6/omnishadow-broker_0.1.6_macos-apple_omnishadow-broker_0.2.0_aarch64.dmg) |
+| macOS Intel | 35 MB | [omnishadow-broker_0.1.6_macos-intel_omnishadow-broker_0.2.0_x64.dmg](https://github.com/Superagentsys/omnishadowbrokerProduct/raw/main/releases/v0.1.6/omnishadow-broker_0.1.6_macos-intel_omnishadow-broker_0.2.0_x64.dmg) |
+| Windows x64 安装程序 | 21 MB | [omnishadow-broker_0.1.6_windows-x64_omnishadow-broker_0.2.0_x64-setup.exe](https://github.com/Superagentsys/omnishadowbrokerProduct/raw/main/releases/v0.1.6/omnishadow-broker_0.1.6_windows-x64_omnishadow-broker_0.2.0_x64-setup.exe) |
+| Windows x64 MSI | 31 MB | [omnishadow-broker_0.1.6_windows-x64_omnishadow-broker_0.2.0_x64_en-us.msi](https://github.com/Superagentsys/omnishadowbrokerProduct/raw/main/releases/v0.1.6/omnishadow-broker_0.1.6_windows-x64_omnishadow-broker_0.2.0_x64_en-us.msi) |
+
+校验和见 [`releases/v0.1.6/SHA256SUMS`](https://github.com/Superagentsys/omnishadowbrokerProduct/blob/main/releases/v0.1.6/SHA256SUMS)。
 
 macOS 若提示未验证开发者：系统设置 → 隐私与安全性 → 仍要打开。
 
