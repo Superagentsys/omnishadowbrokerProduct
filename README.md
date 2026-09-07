@@ -4,20 +4,20 @@
 
 源码仓库（私有）：[Superagentsys/omnishadowbroker](https://github.com/Superagentsys/omnishadowbroker)
 
-当前版本：**v0.1.6**
+当前版本：**v0.1.7**
 
 ## 下载
 
-安装包在本仓 [`releases/v0.1.6/`](https://github.com/Superagentsys/omnishadowbrokerProduct/tree/main/releases/v0.1.6)，也挂在 [Releases](https://github.com/Superagentsys/omnishadowbrokerProduct/releases)。
+安装包在本仓 [`releases/v0.1.7/`](https://github.com/Superagentsys/omnishadowbrokerProduct/tree/main/releases/v0.1.7)，也挂在 [Releases](https://github.com/Superagentsys/omnishadowbrokerProduct/releases)。
 
 | 平台 | 大小 | 文件 |
 |---|---:|---|
-| macOS Apple Silicon | 33 MB | [omnishadow-broker_0.1.6_macos-apple_omnishadow-broker_0.2.0_aarch64.dmg](https://github.com/Superagentsys/omnishadowbrokerProduct/raw/main/releases/v0.1.6/omnishadow-broker_0.1.6_macos-apple_omnishadow-broker_0.2.0_aarch64.dmg) |
-| macOS Intel | 35 MB | [omnishadow-broker_0.1.6_macos-intel_omnishadow-broker_0.2.0_x64.dmg](https://github.com/Superagentsys/omnishadowbrokerProduct/raw/main/releases/v0.1.6/omnishadow-broker_0.1.6_macos-intel_omnishadow-broker_0.2.0_x64.dmg) |
-| Windows x64 安装程序 | 21 MB | [omnishadow-broker_0.1.6_windows-x64_omnishadow-broker_0.2.0_x64-setup.exe](https://github.com/Superagentsys/omnishadowbrokerProduct/raw/main/releases/v0.1.6/omnishadow-broker_0.1.6_windows-x64_omnishadow-broker_0.2.0_x64-setup.exe) |
-| Windows x64 MSI | 31 MB | [omnishadow-broker_0.1.6_windows-x64_omnishadow-broker_0.2.0_x64_en-us.msi](https://github.com/Superagentsys/omnishadowbrokerProduct/raw/main/releases/v0.1.6/omnishadow-broker_0.1.6_windows-x64_omnishadow-broker_0.2.0_x64_en-us.msi) |
+| macOS Intel | 35 MB | [omnishadow-broker_0.1.7_macos-intel_omnishadow-broker_0.2.0_x64.dmg](https://github.com/Superagentsys/omnishadowbrokerProduct/raw/main/releases/v0.1.7/omnishadow-broker_0.1.7_macos-intel_omnishadow-broker_0.2.0_x64.dmg) |
+| Windows x64 安装程序 | 21 MB | [omnishadow-broker_0.1.7_windows-x64_omnishadow-broker_0.2.0_x64-setup.exe](https://github.com/Superagentsys/omnishadowbrokerProduct/raw/main/releases/v0.1.7/omnishadow-broker_0.1.7_windows-x64_omnishadow-broker_0.2.0_x64-setup.exe) |
 
-校验和见 [`releases/v0.1.6/SHA256SUMS`](https://github.com/Superagentsys/omnishadowbrokerProduct/blob/main/releases/v0.1.6/SHA256SUMS)。
+macOS Apple Silicon 与 Windows MSI 稍后补齐；需要时可暂时使用 [v0.1.6](https://github.com/Superagentsys/omnishadowbrokerProduct/tree/main/releases/v0.1.6) 对应平台包。
+
+校验和见 [`releases/v0.1.7/SHA256SUMS`](https://github.com/Superagentsys/omnishadowbrokerProduct/blob/main/releases/v0.1.7/SHA256SUMS)。
 
 macOS 若提示未验证开发者：系统设置 → 隐私与安全性 → 仍要打开。
 
@@ -27,7 +27,7 @@ macOS 若提示未验证开发者：系统设置 → 隐私与安全性 → 仍�
 
 - 态势图：航空、地震、台风、预警、轨道、人道与地缘等公开图层
 - 舆情监测：热榜 / RSS，失败时保留上次结果
-- AI 搜索、智能体只读接入、简报拟稿
+- AI 搜索、智能体接入（可配置本机模型）、简报拟稿（可上传模板成文）
 
 工作底稿来自公开源，非正式公文、非正式密件。
 
